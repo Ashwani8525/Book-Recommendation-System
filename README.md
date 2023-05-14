@@ -85,3 +85,7 @@ seaborn, matplotlib - Visualization libraries
 numpy, scipy- number python library
 
 pandas - data handling library
+
+ppt link :- https://docs.google.com/presentation/d/1xzHJZUqi6F6tPbakBCQ4bor0kwR0UnPb/edit?usp=sharing&ouid=103048942365170043967&rtpof=true&sd=true
+
+technical document:- https://docs.google.com/document/d/1FSFp92aFfmwJutyrVy8LJM_cv8AJ_T2T/edit?usp=sharing&ouid=103048942365170043967&rtpof=true&sd=true
